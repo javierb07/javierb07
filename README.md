@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello there 👋 
 
-<!--
-**javierb07/javierb07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile, my name is Javier Belmonte. I'm an engineer with passion for both hardware and software, while you're here feel free to explore my repos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>You are visitor number</td>
+    <td><img src="https://profile-counter.glitch.me/javierb07/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+### How about a little joke?
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko)
+
+![javierb07's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierb07&show_icons=true&theme=dark)
