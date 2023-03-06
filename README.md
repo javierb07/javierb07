@@ -14,4 +14,3 @@ Welcome to my GitHub profile, my name is Javier Belmonte. I'm an engineer with p
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=merko)
 
-![javierb07's GitHub stats](https://github-readme-stats.vercel.app/api?username=javierb07&show_icons=true&theme=dark)
